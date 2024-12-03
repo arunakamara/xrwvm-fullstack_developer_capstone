@@ -124,3 +124,16 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.contact-us {
+    display: flex;
+}
+
+.contact-us-text {
+    margin-top: 15px;
+}
+
+main > div hr {
+    height: 58px;
+    background-color: black
+}
